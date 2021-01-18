@@ -1,0 +1,51 @@
+{
+  "id": "2287610",
+  "name": "ccit",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3905147",
+      "name": "荣誉",
+      "font_class": "nb-",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "5065483",
+      "name": "统计",
+      "font_class": "shuangsechangyongtubiao-",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "7991702",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "11535202",
+      "name": "成员",
+      "font_class": "chengyuan",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "13478761",
+      "name": "设置",
+      "font_class": "A",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    },
+    {
+      "icon_id": "18297987",
+      "name": "公司动态",
+      "font_class": "gongsidongtai",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    }
+  ]
+}
